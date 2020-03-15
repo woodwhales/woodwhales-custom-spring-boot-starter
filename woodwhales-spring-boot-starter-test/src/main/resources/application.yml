@@ -1,0 +1,7 @@
+server:
+  port: 8083
+  address: 0.0.0.0
+woodwhales:
+  hello:
+    prefix: hi
+    suffix: welcome to woodwhales's blog

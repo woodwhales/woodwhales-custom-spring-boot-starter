@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+org.woodwhales.starter.HelloServiceAutoConfiguration,\
+org.woodwhales.starter.log.MyLogAutoConfiguration
